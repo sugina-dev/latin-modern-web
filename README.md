@@ -10,7 +10,7 @@ For example, adding the following if you wanted to use the font 'Lucida
 Modern Mono'. The families are defined in those files.
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono.css" />
 ```
 
 After doing that, you can safely use something like the following to
@@ -25,20 +25,20 @@ pre, kbd {
 Here is the full list of CSS files you can use:
 
 ```
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-caps.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-light.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-light-cond.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-prop.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-prop-light.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-mono-slanted.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-roman.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-roman-caps.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-roman-demi.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-roman-dunhill.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-roman-slanted.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-sans.css
-https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.0/style/latinmodern-sans-demi.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-caps.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-light.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-light-cond.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-prop.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-prop-light.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-mono-slanted.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-roman.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-roman-caps.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-roman-demi.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-roman-dunhill.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-roman-slanted.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-sans.css
+https://cdn.jsdelivr.net/gh/sugina-dev/latin-modern-web@1.0.1/style/latinmodern-sans-demi.css
 ```
 
 ## Demo
